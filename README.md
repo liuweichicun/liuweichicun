@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **liuweichicun/liuweichicun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![六维尺寸的GitHub状态](https://github-readme-stats.vercel.app/api?username=liuweichicun)](https://github.com/liuweichicun/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=liuweichicun&show_icons=true&theme=tokyonight)
