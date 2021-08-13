@@ -11,10 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎮 游戏
-- 🎞 动漫
 - 💻 宅
-- 🐱‍💻 编程
+- 🎮 游戏
+- 🎬 动漫
+- 🎞 电影
+- 🛠 开发
+- 📖 摸鱼
+
+-  编程
 
 ![](https://github-readme-stats.vercel.app/api?username=liuweichicun&theme=tokyonight&show_icons=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liuweichicun&theme=tokyonight&layout=compact&langs_count=10)<br/>
